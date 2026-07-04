@@ -2,7 +2,7 @@
 -- Based on default hyprland.lua config
 -- Configured for Thinkpad X250 screen/ general laptop usage; resolution when applied
 -- Not split into seperate files because laze (you should split but eh)
--- Ensure all required apps are installed (namely ghostty, nemo, rofi, waybar)
+-- Ensure all required apps are installed (namely ghostty, nemo, rofi, waybar, nmrs, bluetui, pavucontrol)
 
 
 ------------------
